@@ -26,6 +26,15 @@ namespace Algoritmica
         }
 
         [TestMethod]
+        public void Problem3()
+        {
+            Pb3 p = new Pb3();
+            long resul = p.PrimLongNumber();
+
+            Assert.AreEqual(resul, 6857);
+        }
+
+        [TestMethod]
         public void Problem6()
         {
             Pb6 p = new Pb6();
@@ -40,7 +49,6 @@ namespace Algoritmica
         {
             Pb7 p = new Pb7();
             int resul = p.Number();
-
             Assert.AreNotEqual(resul, 104743);
            
         }
