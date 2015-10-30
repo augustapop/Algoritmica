@@ -1,4 +1,6 @@
-d:\(documents)\documents\visual studio 2012\Projects\Algoritmica\Algoritmica\bin\Debug\Algoritmica.dll
-d:\(documents)\documents\visual studio 2012\Projects\Algoritmica\Algoritmica\bin\Debug\Algoritmica.pdb
-d:\(documents)\documents\visual studio 2012\Projects\Algoritmica\Algoritmica\obj\Debug\Algoritmica.dll
-d:\(documents)\documents\visual studio 2012\Projects\Algoritmica\Algoritmica\obj\Debug\Algoritmica.pdb
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\bin\Debug\Algoritmica.exe.config
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\obj\Debug\Algoritmica.csprojResolveAssemblyReference.cache
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\bin\Debug\Algoritmica.exe
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\bin\Debug\Algoritmica.pdb
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\obj\Debug\Algoritmica.exe
+d:\(documents)\documents\visual studio 2013\Projects\Algoritmica\Algoritmica\obj\Debug\Algoritmica.pdb
