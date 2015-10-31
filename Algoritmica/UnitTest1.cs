@@ -35,6 +35,23 @@ namespace Algoritmica
         }
 
         [TestMethod]
+        public void Problem4()
+        {
+            Pb4 p = new Pb4();
+            string resul = p.LargestPalindrom();
+
+            Assert.AreEqual(resul, "906609");
+        }
+        [TestMethod]
+        public void Problem5()
+        {
+            Pb5 p = new Pb5();
+            int resul = p.DivideBy20();
+
+            Assert.AreEqual(resul, 232792561);
+        }
+
+        [TestMethod]
         public void Problem6()
         {
             Pb6 p = new Pb6();
@@ -49,8 +66,15 @@ namespace Algoritmica
         {
             Pb7 p = new Pb7();
             int resul = p.Number();
-            Assert.AreNotEqual(resul, 104743);
-           
+            Assert.AreNotEqual(resul, 104743);           
+        }
+
+        [TestMethod]
+        public void Problem8()
+        {
+            Pb8 p = new Pb8();
+            int resul = p.GetMAx();
+            Assert.AreEqual(resul, 40824);
         }
     }
 }

@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Algoritmica
 {
-    //2)By considering the terms in the Fibonacci sequence
-    //whose values do not exceed four million, find the sum of
-    //the even-valued terms
+   
     public class Pb2
     {
         public int Suma()
         {
+            //2)By considering the terms in the Fibonacci sequence
+            //whose values do not exceed four million, find the sum of
+            //the even-valued terms
+
             int sum = 0;
             int f1 = 1, f2 = 1, temp = 0;
             while (f2 < 4000000)
