@@ -76,5 +76,13 @@ namespace Algoritmica
             int resul = p.GetMAx();
             Assert.AreEqual(resul, 40824);
         }
+
+        [TestMethod]
+        public void Problem9()
+        {
+            Pb9 p = new Pb9();
+            int resul = p.Product();
+            Assert.AreEqual(resul, 31875000);
+        }
     }
 }
