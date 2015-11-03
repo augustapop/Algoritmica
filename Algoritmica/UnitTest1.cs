@@ -84,5 +84,30 @@ namespace Algoritmica
             int resul = p.Product();
             Assert.AreEqual(resul, 31875000);
         }
+        [TestMethod]
+        public void SumOfPrimeUnderMillion()
+        {
+
+            Pb10SumOfPrimeUnderMillion p = new Pb10SumOfPrimeUnderMillion();
+         
+            long resul = p.SumOfPrimeMillion();
+            Assert.AreEqual(resul, 142913828922);
+        }
+
+        [TestMethod]
+        public void Pb12NrOfDivisor()
+        {
+            Pb12NrOfDivisor p = new Pb12NrOfDivisor();
+            long resul = p.Number();
+            Assert.AreEqual(resul, 76576500);
+        }
+
+        [TestMethod]
+        public void Pb14LongChain()
+        {
+            Pb14LongChain p = new Pb14LongChain();
+            long resul = p.GetLongChain();
+            Assert.AreEqual(resul, 837799);
+        }
     }
 }

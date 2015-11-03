@@ -51,6 +51,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Pb1.cs" />
+    <Compile Include="Pb12NrOfDivisor.cs" />
+    <Compile Include="Pb14LongChain.cs" />
     <Compile Include="Pb2.cs" />
     <Compile Include="Pb3.cs" />
     <Compile Include="Pb4.cs" />
@@ -59,6 +61,7 @@
     <Compile Include="Pb7.cs" />
     <Compile Include="Pb8.cs" />
     <Compile Include="Pb9.cs" />
+    <Compile Include="Pb10SumOfPrimeUnderMillion.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
